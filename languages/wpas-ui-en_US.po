@@ -1,0 +1,432 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2017-03-24 22:03+0000\n"
+"PO-Revision-Date: 2017-03-24 22:05+0000\n"
+"Last-Translator: wordpress <iiandrade@live.com>\n"
+"Language-Team: English (United States)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco - https://localise.biz/\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+"Language: en-US\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Report-Msgid-Bugs-To: "
+
+#: includes/elements/views/buttons-html.php:318
+msgid "Acesso rápido"
+msgstr "Quick access"
+
+#: includes/elements/views/buttons-html.php:325
+msgid "Botões com WordPress"
+msgstr "Buttons with WordPress"
+
+#: includes/elements/views/buttons-html.php:328
+#: includes/elements/views/buttons-html.php:330
+#: includes/elements/views/buttons-html.php:366
+#: includes/elements/views/buttons-html.php:369
+msgid "Botão padrão"
+msgstr "Standard button"
+
+#: includes/elements/views/buttons-html.php:334
+#: includes/elements/views/buttons-html.php:336
+#: includes/elements/views/buttons-html.php:374
+#: includes/elements/views/buttons-html.php:377
+msgid "Botão secundário"
+msgstr "Secondary button"
+
+#: includes/elements/views/buttons-html.php:340
+#: includes/elements/views/buttons-html.php:342
+#: includes/elements/views/buttons-html.php:382
+#: includes/elements/views/buttons-html.php:385
+msgid "Botão padrão pequeno"
+msgstr "Small standard button"
+
+#: includes/elements/views/buttons-html.php:346
+#: includes/elements/views/buttons-html.php:348
+#: includes/elements/views/buttons-html.php:390
+#: includes/elements/views/buttons-html.php:393
+msgid "Botão secundário pequeno"
+msgstr "Small secondary button"
+
+#: includes/elements/views/buttons-html.php:352
+#: includes/elements/views/buttons-html.php:354
+#: includes/elements/views/buttons-html.php:398
+#: includes/elements/views/buttons-html.php:401
+msgid "Botão padrão grande"
+msgstr "Large Standard Button"
+
+#: includes/elements/views/buttons-html.php:358
+#: includes/elements/views/buttons-html.php:360
+#: includes/elements/views/buttons-html.php:406
+#: includes/elements/views/buttons-html.php:409
+msgid "Botão secundário grande"
+msgstr "Large secondary button"
+
+#: includes/elements/views/buttons-html.php:363
+msgid "Botões com classes HTML"
+msgstr "Buttons with HTML classes"
+
+#: wp-admin-style-ui.php:130 wp-admin-style-ui.php:131
+#: wp-admin-style-ui.php:142
+msgid "Admin Style UI"
+msgstr "Admin Style UI"
+
+#: wp-admin-style-ui.php:143
+msgid "Apresentação"
+msgstr "Presentation"
+
+#: includes/class-wpasui-runcode.php:52
+msgid ""
+"Código malicioso detectado, por favor não tente executar este tipo de código "
+"novamente."
+msgstr ""
+"Malicious code detected, please do not try to run this type of code again."
+
+#: includes/elements/class-wpasui-element-buttons.php:24
+msgctxt "Name Element"
+msgid "Trabalhando com Botões do WordPress"
+msgstr "Working with WordPress Buttons"
+
+#: includes/elements/class-wpasui-element-buttons.php:26
+msgctxt "Menu Title"
+msgid "Botões"
+msgstr "Buttons"
+
+#: includes/elements/class-wpasui-element-buttons.php:57
+msgid ""
+"Aqui mostraremos como é fácil criar botões com características nativas do "
+"WordPress. Super fácil de aprender, se estiver com muita pressa, é só copiar "
+"todo código e colar onde for necessário."
+msgstr ""
+"Here we show you how easy it is to create buttons with native WordPress "
+"features. Super easy to learn, if you're in a hurry, just copy all code and "
+"paste where you need it."
+
+#: includes/elements/class-wpasui-element-buttons.php:60
+#: includes/elements/class-wpasui-element-accordions.php:44
+msgid "Estudar..."
+msgstr "To study..."
+
+#: includes/elements/class-wpasui-element-accordions.php:24
+msgid "Lista em Accordions"
+msgstr "List in Accordions"
+
+#: includes/elements/class-wpasui-element-accordions.php:26
+msgid "Accordions"
+msgstr "Accordions"
+
+#: includes/elements/class-wpasui-element-accordions.php:43
+msgid ""
+"Começaremos a trabalhar com <strong>Accordions</strong>, essa é uma ótima "
+"ideia para fazer algumas listas com conteúdos oculto, que ao clicar serão "
+"mostrados, como esta que você está vendo nesta página. Este item envolve um "
+"nível de complexidade um pouco maior que o estudo dos botões nativos, mas "
+"não se preoculpe ajudaremos da melhor forma possível."
+msgstr ""
+"We'll start working with <strong>Accordions</strong>, this is a great idea "
+"to make some lists with hidden content, which when clicked will be shown, "
+"like the one you see on this page. This item involves a level of complexity "
+"a little higher than the study of the native buttons, but do not worry we "
+"will help in the best way possible."
+
+#: includes/pages/views/admin-page-main.php:11
+msgid "Gostou? Ajude a melhorar!"
+msgstr "Liked? Help improve!"
+
+#: includes/pages/views/admin-page-main.php:15
+msgid ""
+"Estamos sempre querendo melhorar nossos códigos, para melhor auxiliar "
+"aqueles que pretendem \n"
+"                \t\t\tter uma referência de como integrar seu plugin ou tema "
+"com o estilo de administração do WordPress. \n"
+"                \t\t\tVocê também pode ajudar, faça uma doação de qualquer "
+"valor, assim você estará nos \n"
+"                \t\t\tincentivando a continuar desenvolvendo. Não esqueça "
+"que você também poderá nos dar dicas, de como, \n"
+"                \t\t\te onde melhorar."
+msgstr ""
+"We are always looking forward to improving our code to better assist those "
+"who wish to have a reference on how to integrate their plugin or theme with "
+"the WordPress admin style. You can also help, make a donation of any value, "
+"so you will be encouraging us to continue developing. Do not forget that you "
+"can also give us tips, how, and where to improve."
+
+#: includes/pages/views/admin-page-main.php:36
+msgid "Bugs?"
+msgstr "Bugs?"
+
+#: includes/pages/views/admin-page-main.php:40
+msgid ""
+"Achou algum bug, ou, gostaria de dar alguma sugestão ou ideia. Informe para "
+"gente, \n"
+"                \t\t\tficaremos muito feliz em receber sua mensagem."
+msgstr ""
+"Found a bug, or, I'd like to give you some suggestion or idea. Let us know, "
+"we will be very happy to receive your message."
+
+#: includes/pages/views/admin-page-main.php:59
+msgid "Iniciando com os elementos ..."
+msgstr "Starting with the elements ..."
+
+#: includes/pages/views/admin-page-main.php:64
+msgid ""
+"Agora nós vamos listar para você quais os elementos que o WordPress está "
+"usando atualmente, nós te daremos também alguns \n"
+"\t\t\t\t\t\t\tajudantes para copiar alguns trecho de códigos, caso tenha a "
+"necessidade. O que nós queremos aqui é ajudar você dá melhor forma possível."
+msgstr ""
+"Now we are going to list for you what elements WordPress is currently using, "
+"we will also give you some helpers to copy some code snippet if you have to. "
+"What we want here is to help you in the best possible way."
+
+#: includes/elements/views/buttons-html.php:11
+msgid "Entenda como funciona"
+msgstr "Understand how it works"
+
+#: includes/elements/views/buttons-html.php:22
+msgid "1 - Introdução"
+msgstr "1. Introduction"
+
+#: includes/elements/views/buttons-html.php:29
+msgid ""
+"No WordPress há duas maneiras de se criar um botão, uma delas é utilizando "
+"as funções de ajuda do próprio WordPress, \n"
+"\t\t\t\t\t\t\t\t\t\t\ta outra é utilizando as classes que o WordPress "
+"importa no carregamento da <strong>administração</strong>. Aqui nós iremos \n"
+"\t\t\t\t\t\t\t\t\t\t\ttrabalhar e entender as duas formas. Então, mãos a "
+"obra!"
+msgstr ""
+"In WordPress there are two ways to create a button, one is using the help "
+"functions of WordPress itself, the other is using the classes that WordPress "
+"imports into the <strong>administration</strong> load. Here we will work and "
+"understand both ways. So get to work!"
+
+#: includes/elements/views/buttons-html.php:44
+msgid "2 - Criando botão: Utilizando funções de ajuda."
+msgstr "2 - Creating button: Using help functions."
+
+#: includes/elements/views/buttons-html.php:51
+msgid ""
+"Primeiramente vamos estudar como criar um botão do WordPress usando sua "
+"função de ajuda. Abaixo você consegui ver quais variações são possíveis "
+"fazer com a ajuda do WordPress:"
+msgstr ""
+"First let's look at how to create a WordPress button using its help function."
+" Below you can see what variations are possible with the help of WordPress:"
+
+#: includes/elements/views/buttons-html.php:62
+#: includes/elements/views/buttons-html.php:116
+#: includes/elements/views/buttons-html.php:299
+msgid "Exemplo 1"
+msgstr "Example 1"
+
+#: includes/elements/views/buttons-html.php:63
+#: includes/elements/views/buttons-html.php:125
+#: includes/elements/views/buttons-html.php:300
+msgid "Exemplo 1.2"
+msgstr "Example 1.2"
+
+#: includes/elements/views/buttons-html.php:64
+#: includes/elements/views/buttons-html.php:134
+#: includes/elements/views/buttons-html.php:301
+msgid "Exemplo 1.3"
+msgstr "Example 1.3"
+
+#: includes/elements/views/buttons-html.php:65
+#: includes/elements/views/buttons-html.php:143
+msgid "Exemplo 2"
+msgstr "Example 2"
+
+#: includes/elements/views/buttons-html.php:66
+#: includes/elements/views/buttons-html.php:152
+msgid "Exemplo 2.2"
+msgstr "Example 2.2"
+
+#: includes/elements/views/buttons-html.php:67
+#: includes/elements/views/buttons-html.php:161
+msgid "Exemplo 2.3"
+msgstr "Example 2.3"
+
+#: includes/elements/views/buttons-html.php:78
+msgid "2.1 - Primeiros botões."
+msgstr "2.1 - First buttons."
+
+#: includes/elements/views/buttons-html.php:86
+msgid ""
+"Ao finalizar esta etapa, você já está sabendo como implementar um botão no "
+"Wordpress, então siga em frente."
+msgstr ""
+"At the end of this step, you already know how to implement a button in "
+"Wordpress, so go ahead."
+
+#: includes/elements/views/buttons-html.php:95
+msgid ""
+"No WordPress há uma função <code>submit_button();</code> que é utilizada "
+"para auxiliar na criação de botões, esta função aceita \n"
+"\t\t\t\t\t\t\t\t\t\t\t<strong>5 argumentos</strong>, porém nenhum deles é "
+"obrigatório, caso não seja informado nenhum, automáticamente irá assumir os "
+"valores padrões."
+msgstr ""
+"In WordPress there is a <code>submit_button();</code> function; Which is "
+"used to assist in the creation of buttons, this function accepts <strong>5 "
+"arguments</strong>, but none of them is mandatory, if it is not informed, it "
+"will automatically assume the default values."
+
+#: includes/elements/views/buttons-html.php:105
+msgid "Os botões da etapa acima, foi criado da seguinte forma."
+msgstr "The buttons in the step above were created as follows."
+
+#: includes/elements/views/buttons-html.php:113
+msgid "Exemplo 1: "
+msgstr "Example 1:"
+
+#: includes/elements/views/buttons-html.php:122
+msgid "Exemplo 1.2: "
+msgstr "Example 1.2:"
+
+#: includes/elements/views/buttons-html.php:131
+msgid "Exemplo 1.3: "
+msgstr "Example 1.3:"
+
+#: includes/elements/views/buttons-html.php:140
+msgid "Exemplo 2: "
+msgstr "Example 2:"
+
+#: includes/elements/views/buttons-html.php:149
+msgid "Exemplo 2.2: "
+msgstr "Example 2.2:"
+
+#: includes/elements/views/buttons-html.php:158
+msgid "Exemplo 2.3: "
+msgstr "Example 2.3:"
+
+#: includes/elements/views/buttons-html.php:168
+msgid ""
+"Os principais argumentos que nos interessa neste momento é apenas o <strong>"
+"primeiro</strong> e <strong>segundo</strong>. \n"
+"\t\t\t\t\t\t\t\t\t\t\tPorque são eles que exibirão o <i>texto</i> e <i>"
+"tipo</i> de botão que queremos."
+msgstr ""
+"The main arguments that interest us right now is just the <strong>"
+"first</strong> and <strong>second</strong>.\n"
+"Because they are the ones that will display the <i>text</i> and <i>type</i> "
+"buttons we want."
+
+#: includes/elements/views/buttons-html.php:183
+msgid "2.2 - Argumentos da Função."
+msgstr "2.2 - Role Arguments."
+
+#: includes/elements/views/buttons-html.php:191
+msgid ""
+"Vamos entender melhor sobre os <strong>dois</strong> argumentos que nos "
+"interessa."
+msgstr ""
+"Let's understand better about the <strong>two</strong> arguments that "
+"interest us."
+
+#: includes/elements/views/buttons-html.php:199
+msgid "Primeiro argumento: "
+msgstr "First argument:"
+
+#: includes/elements/views/buttons-html.php:202
+msgid "Este argumento é quem vai dizer qual vai ser o texto do nosso botão."
+msgstr ""
+"This argument is who is going to say what will be the text of our button."
+
+#: includes/elements/views/buttons-html.php:210
+msgid "Segundo argumento: "
+msgstr "Second argument:"
+
+#: includes/elements/views/buttons-html.php:213
+msgid ""
+"Este aqui é quem diz, qual tipo de botão queremos. que na verdade este "
+"argumento é uma ou mais classes HTML, sendo separadas por um espaço ou pode "
+"ser também uma matriz."
+msgstr ""
+"This one is who says, what kind of button do we want. That in fact this "
+"argument is one or more HTML classes, being separated by a space or can be "
+"also an array."
+
+#: includes/elements/views/buttons-html.php:222
+msgid ""
+"Os valores aceito e que fazem efeito de css para o WordPress são: <code>"
+"primary</code>, <code>secondary</code>, <code>large</code>, <code>"
+"small</code>. Mas você pode ficar a vontade para adicionar alguma classe "
+"personalizada."
+msgstr ""
+"The accepted and making css values for WordPress are: <code>primary</code>, "
+"<code>secondary</code>, <code>large</code>, <code>small</code>. But you may "
+"feel free to add some custom class."
+
+#: includes/elements/views/buttons-html.php:237
+msgid "2.3 - Finalizando."
+msgstr "2.3 - Finishing."
+
+#: includes/elements/views/buttons-html.php:246
+msgid ""
+"Agora que você já sabe como criar um botão utilizando a função de ajuda do "
+"WordPress, vamos passar para proxima etapa, mas antes eu vou te deixar uma "
+"dica."
+msgstr ""
+"Now that you already know how to create a button using the WordPress help "
+"function, let's move on to next step, but first I'll leave you a tip."
+
+#: includes/elements/views/buttons-html.php:255
+msgid ""
+"Você pode entender melhor como funciona a função citada acima, acessando a "
+"documentação oficial do WordPress. Clique no link abaixo."
+msgstr ""
+"You can better understand how the above function works by accessing the "
+"official WordPress documentation. Click the link below."
+
+#: includes/elements/views/buttons-html.php:274
+msgid "3 - Botões diretamente no HTML."
+msgstr "3 - Buttons directly in HTML."
+
+#: includes/elements/views/buttons-html.php:283
+msgid ""
+"Essa é uma dica simples, você já aprendeu a criar o botão com a função do "
+"Wordpress, agora você pode criar um botão aplicando as classes estudadas na "
+"tag html do elemento que você quer."
+msgstr ""
+"This is a simple tip, you have already learned how to create the button with "
+"the Wordpress function, you can now create a button by applying the classes "
+"studied in the html tag of the element you want."
+
+#: includes/elements/views/buttons-html.php:292
+msgid ""
+"Vou te mostrar como eu costumo trabalhar quando eu não utilizo a ajuda do "
+"WordPress, segue abaixo um trecho do código."
+msgstr ""
+"I'll show you how I usually work when I do not use WordPress help, here's a "
+"snippet of code below."
+
+#. Name of the plugin
+msgid "WP Admin Style UI"
+msgstr "WP Admin Style UI"
+
+#. Description of the plugin
+msgid ""
+"O WP Admin Style UI foi desenvolvido para auxiliar os desenvolvedores "
+"iniciantes ou veteranos a criar tela de administração WordPress nativa, "
+"utilizando ferramentas e classes, sem a necessidade de importar ou adicionar "
+"arquivos externos."
+msgstr ""
+"WP Admin Style UI was developed to help beginner or veteran developers "
+"create a native WordPress administration screen, using tools and classes, "
+"without the need to import or add external files."
+
+#. URI of the plugin
+msgid "https://github.com/iiandrade/wp-admin-style-ui"
+msgstr "https://github.com/iiandrade/wp-admin-style-ui"
+
+#. Author of the plugin
+msgid "Italo Izaac"
+msgstr "Italo Izaac"
+
+#. Author URI of the plugin
+msgid "https://github.com/iiandrade/"
+msgstr "https://github.com/iiandrade/"

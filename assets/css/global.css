@@ -1,0 +1,17 @@
+div.wpasui-buttons-examples{
+	margin-top:15px;
+}
+div.wpasui-buttons-examples p{
+	margin:0;
+	padding:0;
+	display:inline;
+	margin-right:7px;
+}
+div.wpasui-wrap div.menu-item-settings > p:first-child{
+	margin-top:0;
+}
+div.wpasui-wrap div.menu-item-settings > p:last-child{
+	margin-bottom:0;
+}
+
+div.make-ace-editor{width:100%;min-height:250px!important}
